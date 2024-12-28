@@ -13,4 +13,4 @@ Aplikasi ini masih dalam tahap pengembangan. Jika kamu ingin berkontribusi, jang
 
 **Mari dukung DAY6 bersama!**
 
-**Tag:** DAY6, K-Pop, Musik, Fan App, [tag lainnya]
+**Tag:** DAY6, K-Pop, Musik, Fan App
